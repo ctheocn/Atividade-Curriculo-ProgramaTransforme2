@@ -7,5 +7,5 @@ Com a orientação da Prof.(a) Jessica Venancio
 
 ### Links
 
-- URL da solução: [Add solution URL here](https://github.com/ctheocn/Atividade-Curriculo-ProgramaTransforme)
+- URL da solução: [Add solution URL here](https://github.com/ctheocn/Atividade-Curriculo-ProgramaTransforme2)
 - URL do ao vivo: https://ctheocn.github.io/Atividade-Curriculo-ProgramaTransforme2/
